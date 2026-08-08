@@ -1,141 +1,122 @@
 # Hi, I'm Anishka Pannalkar 👋
 
-💡 Information Technology Student (Honors in Data Science)  
-🎯 Event & Design Lead | Aspiring Web Developer  
-📍 Pune, India  
-📧 anishkapanna1511@gmail.com  
+Final-year Information Technology Student · Honors in Data Science  
+📍 Pune, India · [Portfolio](https://anishka1511.github.io) · [GitHub](https://github.com/anishka1511) · [LinkedIn](https://www.linkedin.com/in/anishka-pannalkar/)  
+📧 [anishkapanna1511@gmail.com](mailto:anishkapanna1511@gmail.com) · +91 9860431475
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-I am an Information Technology student with Honors in Data Science (CGPA: 9.44/10), passionate about building intelligent systems and scalable web applications.
+Final-year Information Technology student (**CGPA: 9.49/10**, Honors in Data Science) with experience building full-stack applications, AI-integrated systems, and scalable backend APIs using **React**, **Node.js**, **FastAPI**, and modern web technologies.
 
-My interests lie at the intersection of:
-- AI-powered document processing
-- Backend architecture & API development
-- Clean UI/UX design
-- Competitive problem-solving
-
-I enjoy transforming complex ideas into structured, functional solutions — from semantic search systems to full-stack web platforms.
+National hackathon winner passionate about software engineering, backend development, and problem solving.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-### 💻 Programming Languages
-- C
-- C++
-- Java
-- JavaScript
-- Python
-
-### 🌐 Web Development
-- HTML5
-- CSS3
-- JavaScript
-- Node.js
-- Express.js
-- EJS
-- React (Currently Learning)
-
-### 🗄 Databases
-- MySQL
-- MongoDB
-
-### 🤖 AI / ML
-- Local LLM Integration
-- Semantic Search (bge-small)
-- Document Embedding Pipelines
-- Structured JSON Output Generation
-
-### 🎨 Design & Tools
-- Git & GitHub
-- VS Code
-- Postman
-- Docker
-- Canva
-- Figma
+| Area | Technologies |
+|------|----------------|
+| **Languages** | C, C++, Java, Python, JavaScript, TypeScript |
+| **Frontend** | React.js, HTML5, CSS3, Tailwind CSS |
+| **Backend** | Node.js, Express.js, FastAPI, REST APIs, Socket.io, WebSockets |
+| **Databases** | MongoDB, MySQL, PostgreSQL |
+| **AI / ML** | Machine Learning, LLM Integration, Semantic Search, Claude API, Agentic AI |
+| **Tools** | Git, Docker, Supabase, Postman, TanStack React Query, Ollama, VS Code |
+| **Design** | Figma, Canva |
+| **Practices** | System Design, DSA, Agile/Scrum, Unit Testing, Code Review, REST API Design, Tableau |
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 🔹 Intelligent Document Analyzer
-Offline AI-powered PDF analysis system developed during Adobe Hackathon.
+### SplitsVilla — Group Travel & Expense Management Platform
+**Stack:** Full-stack · Socket.io · Leaflet.js · Claude API · 2026
 
-**Tech Stack:** Python, Ollama, bge-small, phi-2, Docker  
+- Built a full-stack platform supporting trip planning, property booking, and expense management for groups of 20+ members
+- Implemented real-time collaboration using Socket.io, invite codes, trip history, and member management
+- Developed map-based property search using Leaflet.js and integrated Claude API for AI-powered budget estimation
+- Designed multi-currency expense settlement and a WebSocket-powered collaborative voting system
 
-**Highlights:**
-- Implemented semantic search using local embeddings (bge-small)
-- Integrated phi-2 for contextual summarization
-- Generated structured JSON outputs for rapid document insights
-- Designed fully offline architecture for privacy and efficiency
+### Patient-Centric Healthcare Platform — Best Solution Award
+**Stack:** FastAPI · Jan 2026
 
----
+- Developed a FastAPI backend for symptom assessment and urgency triage across multiple severity levels
+- Built a recommendation engine that routes patients to appropriate healthcare pathways
+- Awarded **Best Solution** at the AISSMS National Hackathon among 50+ participating teams
 
-### 🔹 Blog Management System
-Dynamic full-stack blogging platform.
+### Real-Time Voice Agent
+**Stack:** Speech-to-Text · LLM · Text-to-Speech · 2025
 
-**Tech Stack:** Node.js, Express.js, MongoDB, EJS  
-
-**Highlights:**
-- RESTful API design
-- Asynchronous CRUD operations using Mongoose
-- MongoDB-based dynamic data handling
-- Modular backend structure
+- Built an end-to-end conversational voice agent integrating Speech-to-Text, LLM reasoning, and Text-to-Speech
+- Designed an asynchronous architecture for low-latency real-time conversations
 
 ---
 
-### 🔹 Simon Says Game
-Interactive browser-based memory game.
+## Experience & Leadership
 
-**Tech Stack:** HTML, CSS, JavaScript  
+**Secretary** · App Club  
+*Jun 2025 – Present*  
+Led a 50-member developer club and organized a 4-day flagship technical event with 300+ registrations.
 
-**Highlights:**
-- Progressive difficulty logic
-- Score tracking system
-- Responsive UI with CSS transitions
-- Cross-device compatibility
+**Co-Head** · Google Developer Groups on Campus  
+*2025 – 2026*  
+Co-led a developer community of 100+ students while organizing technical workshops and study jams.
 
----
-
-## 🏆 Achievements & Leadership
-
-- 🥇 Finalist – Udyamotsav Pitch-Deck Competition (Top 3 ideas out of 10,000+ registrations)
-- 🎤 Represented at National Techno Exhibition (2025)
-- 🥉 Runner-up (3rd Place) – BITBLAZE, BVP Pune
-- 💡 Cleared Adobe Hackathon Round 1
-- 🚀 Tata Imagination Challenge 2025 – Semi-Finalist
-- 🎓 Secretary – App Club (2025–26)
-- 🎨 State-Level Representative – Spot Painting (2025)
-- 🎭 Firodia Karandak Finalist (Intercollegiate Cultural Competition)
+**Co-Head** · Mpulse National Level Tech Fest  
+*2025 – 2026*  
+Coordinated operations for a national technical festival with 500+ participants and 30+ events.
 
 ---
 
-## 🎓 Education
+## Achievements
 
-**Bachelor of Engineering – Information Technology**  
-Honors in Data Science  
-PES Modern College of Engineering, Pune  
-
----
-
-## 📈 Currently Exploring
-
-- Advanced backend architecture
-- Applied AI systems
-- LLM fine-tuning & deployment
-- Production-ready web applications
+- **National Hackathon Winner** — Best Solution Award, AISSMS Hackathon 2026
+- **Startup Pitch Finalist** — 3 ideas pitched, Udyamotsav (10,000+ participants)
+- **Adobe India Hackathon 2025** — Round 2 Qualifier
+- **Semi-finalist** — Tata Imagination Challenge 2025
+- **Runner-up** — BITBLAZE, Bharati Vidyapeeth Pune
+- **Finalist** — National Level AI Summit
+- **Finalist** — National Tech Exhibition, Bangalore
 
 ---
 
-## 🤝 Connect With Me
+## Certifications
 
-- LinkedIn  
-- GitHub  
-- 📧 anishkapanna1511@gmail.com  
+- Web Development — Apna College
+- Programming in C++ — Spoken Tutorial, IIT Bombay
+- Programming in Java — NPTEL
+- Data Structures & Algorithms — NPTEL
 
 ---
 
-⭐ Explore my repositories to see AI-powered systems, backend architectures, and creative tech solutions in action.
+## Education
+
+**Bachelor of Engineering in Information Technology**  
+Honors in Data Science · PES Modern College of Engineering, Pune  
+Expected May 2027 · **CGPA: 9.49 / 10**
+
+Relevant coursework: Data Structures & Algorithms, DBMS, Operating Systems, Computer Networks, Machine Learning
+
+---
+
+## Currently Exploring
+
+- Advanced backend architecture and system design
+- Applied AI systems and agentic workflows
+- LLM integration and production-ready deployment
+- Full-stack platforms with real-time collaboration
+
+---
+
+## Connect
+
+- 🌐 [Portfolio](https://anishka1511.github.io)
+- 💼 [LinkedIn](https://www.linkedin.com/in/anishka-pannalkar/)
+- 💻 [GitHub](https://github.com/anishka1511)
+- 📧 [anishkapanna1511@gmail.com](mailto:anishkapanna1511@gmail.com)
+
+---
+
+⭐ Explore my [portfolio](https://anishka1511.github.io) and repositories to see AI-powered systems, backend architectures, and full-stack platforms in action.
